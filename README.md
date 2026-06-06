@@ -68,30 +68,8 @@ src/
 └── assets/                   # Images and static files
 ```
 ---
-
-## ⚙️ Setup & Installation
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/hr-management-system.git  
-   cd hr-management-system
-   ```
-2. install dependencies
-    npm install
-3. Run Locally
-    ng serve -o
-4. build for production
-    ng build --prod
----
 ## 🌐 Deployment
 
 This project is deployed on **Netlify**.  
 
 You can try it live here: [Demo Link](https://hr-management-system1.netlify.app/)
-
----
-
-## 🙌 Author
-
-Developed by **Your Name**.  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hadush-brhane/)
-
